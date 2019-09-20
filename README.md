@@ -1,6 +1,10 @@
 
 This repository demonstrates issue with TextInput and react-native-screens.
 
+For reproduce run:
+
+`yarn install && yarn start` and `yarn android` in second tab.
+
 What's going on:
 
 1. Open `HomeScreen` with `TextInput`.
